@@ -1,0 +1,105 @@
+.mainHeading {
+    color:black;
+    background-color: slategray;
+    font: size 60px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px lightgoldenrodyellow;
+}
+.secondHeading {
+    text-align: center;
+    color:black;
+    
+}
+.title {
+    color: black;
+}
+body {
+    background-color: darkslategrey;
+}
+.imgmain {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 500px;
+}
+
+.imgmain2 {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height 600px;
+}
+
+table, th, td {
+    border:1px dotted black;
+    width 50%
+    float: center;
+    background-color:lightgray;
+    margin: auto;
+    place-items:center;
+}   
+form {
+    border-style: solid;
+    border-color: papayawhip;
+    border-radius: 10px;
+}
+div {
+    border-style: double;
+    border-color: black;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.shadow-text {
+    text-shadow: aliceblue; 2px 4px;
+
+}
+
+.ul{
+    color:white;
+    border style: double;
+    border-radius: 20px;
+    text-align: center; 
+    font-variant: small-caps;
+    list-style-position: inside;
+
+}
+
+.img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%
+    max-height: 100%
+}
+.links {
+    /* unvisited link */
+    a:link {
+        color:white;
+
+    /* visited link */
+    a:visited  {
+        color: blue;
+
+}}}
+
+div.container {
+    text-align: center;
+}
+.ul {
+    display: inline-block;
+    text-align: left;
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+
+</style>
